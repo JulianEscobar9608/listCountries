@@ -1,0 +1,17 @@
+body{
+
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+table{
+    border-radius: 8px;
+    background-color: aqua;
+
+}
+
+button{
+    background-color: blue;
+    color: aliceblue;
+    font-size: 2rem;
+}
